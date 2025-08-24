@@ -60,8 +60,18 @@
 
 프로젝트 이미지
 
-![담요 이미지](./ReadMeimg/blanket2img.png)
 
+
+
+![시작 화면](./ReadMeimg/startimg.png)
+![로그인 화면](./ReadMeimg/loginimg.png)
+![회원가입 화면](./ReadMeimg/registerimg.png)
+![메인화면 이미지](./ReadMeimg/mainimg.png)
+![메뉴 이미지](./ReadMeimg/menuimg.png)
+![장바구니 담기 이미지](./ReadMeimg/blanketimg.png)
+![장바구니 이미지](./ReadMeimg/blanket2img.png)
+![가구배치 이미지](./ReadMeimg/funitureimg.png)
+![결제 이미지](./ReadMeimg/discountimg.png)
 🛠️ 기술 스택 (Tech Stack)
 
     Language: C#
