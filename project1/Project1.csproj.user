@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="address.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Blankit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Chair.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Christ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Count.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Drawer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Funiture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gasun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rug.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Table.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tools.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
