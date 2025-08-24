@@ -58,7 +58,9 @@
     └── 📁 04_Simulator/          
         └── 📄 Funiture.cs
 
+프로젝트 이미지
 
+ReadMeimg/blanket2img.png
 
 🛠️ 기술 스택 (Tech Stack)
 
