@@ -18,46 +18,44 @@ Framework: .NET Framework
 
 UI Platform: Windows Forms
 
-✨ 프로젝트 구조 
-
-📁 Project1/
-│
-├── 📄 Program.cs
-├── 📄 Project1.csproj
-│
-├── 📁 Models/
-│   └── 📄 CartData.cs
-│
-├── 📁 Properties/
-│   └── 📄 AssemblyInfo.cs
-│
-├── 📁 Resources/
-│   └── ...
-│
-└── 📁 Views/
-    │
-    ├── 📁 00_Main/
-    │   ├── 📄 Main1.cs
-    │   └── 📄 Search.cs
-    │
-    ├── 📁 01_User/
-    │   ├── 📄 Login.cs
-    │   ├── 📄 Resister.cs
-    │   └── 📄 information.cs
-    │
-    ├── 📁 02_Products/
-    │   ├── 📄 Bed.cs
-    │   ├── 📄 Chair.cs
-    │   ├── 📄 Table.cs
-    │   └── ... (기타 모든 상품 폼)
-    │
-    ├── 📁 03_Order/
-    │   ├── 📄 Count.cs
-    │   └── 📄 address.cs
-    │
-    └── 📁 04_Simulator/
-        └── 📄 Funiture.cs
-
+✨ 프로젝트 구조  <br>
+📁 Project1/ <br>
+│ <br>
+├── 📄 Program.cs  <br>
+├── 📄 Project1.csproj  <br>
+│ <br>
+├── 📁 Models/  <br>
+│   └── 📄 CartData.cs  <br>
+│ <br>
+├── 📁 Properties/  <br>
+│   └── 📄 AssemblyInfo.cs  <br>
+│ <br>
+├── 📁 Resources/  <br>
+│   └── ... <br>
+│ <br>
+└── 📁 Views/  <br>
+    │ <br>
+    ├── 📁 00_Main/  <br>
+    │   ├── 📄 Main1.cs  <br>
+    │   └── 📄 Search.cs <br>
+    │ <br>
+    ├── 📁 01_User/ <br>
+    │   ├── 📄 Login.cs <br>
+    │   ├── 📄 Resister.cs <br>
+    │   └── 📄 information.cs <br>
+    │ <br>
+    ├── 📁 02_Products/ <br>
+    │   ├── 📄 Bed.cs <br>
+    │   ├── 📄 Chair.cs <br>
+    │   └── ... (기타 모든 상품 폼) <br>
+    │ <br>
+    ├── 📁 03_Order/ <br>
+    │   ├── 📄 Count.cs <br>
+    │   └── 📄 address.cs <br>
+    │ <br>
+    └── 📁 04_Simulator/ <br>
+        └── 📄 Funiture.cs <br>
+        
 ## ✨ 주요 기능 시연 (Screenshots)
 
 시작 폼  
