@@ -1,8 +1,11 @@
-🛋️ C# WinForms 기반 가구 주문 키오스크
 
-이 프로젝트는 C#과 Windows Forms를 사용하여 개발한 데스크톱 가구 주문 키오스크 애플리케이션. 사용자는 회원가입부터 로그인, 상품 탐색, 장바구니, 최종 결제까지 실제 쇼핑몰과 유사한 프로세스를 경험할 수 있다.
+# C# WinForms 기반 가구 주문 키오스크
 
-✨ 주요 기능 (Features)
+### 이 프로젝트는 C#과 Windows Forms를 사용하여 개발한 데스크톱 가구 주문 키오스크 애플리케이션. 
+### 사용자는 회원가입부터 로그인, 상품 탐색, 장바구니, 최종 결제까지 실제 쇼핑몰과 유사한 프로세스를 경험 가능. <br><br>
+
+
+# ✨ 주요 기능 (Features)
 
 - **회원 관리**: 직관적인 UI의 회원가입 및 로그인 기능을 제공.
 - **상품 탐색**: 카테고리별로 상품을 쉽게 찾아볼 수 있으며, 상세 페이지에서 자세한 정보를 확인.
@@ -10,7 +13,14 @@
 - **장바구니**: 선택한 상품들을 장바구니에 담고 수정할 수 있으며, 전체 주문 금액을 한눈에 확인할 수 있음.
 - **주문/결제**: 주문 내역 확인, 사은품 선택, 결제 정보 입력을 통해 실제와 유사한 주문 프로세스를 시뮬레이션함.
 
-🛠️ 기술 스택 (Tech Stack)
+
+# 🛋️ C# WinForms 가구 주문 키오스크 프로젝트
+
+> 📅 **프로젝트 기간**: 2025.07 ~ 2025.08
+
+
+
+# 🛠️ 기술 스택 (Tech Stack)
 
 Language: C#
 
@@ -18,7 +28,7 @@ Framework: .NET Framework
 
 UI Platform: Windows Forms
 
-✨ 프로젝트 구조  <br>
+# ✨ 프로젝트 구조  <br>
 
 
 📁 Project1/ <br>
@@ -58,7 +68,7 @@ UI Platform: Windows Forms
     └── 📁 04_Simulator/ <br>
         └── 📄 Funiture.cs <br>
         
-## ✨ 주요 기능 시연 (Screenshots)
+# ✨ 주요 기능 시연 (Screenshots)
 
 시작 폼  
 ![시작 화면](./ReadMeimg/startimg.png)  
@@ -80,7 +90,7 @@ UI Platform: Windows Forms
 ![결제 이미지](./ReadMeimg/discountimg.png)  
 
 
-🚀 시작하기 (Getting Started)
+# 🚀 시작하기 (Getting Started)
 
 다운로드한 폴더에서 Visual Studio 솔루션 파일(.sln)을 엽니다.
 
