@@ -18,9 +18,8 @@ Framework: .NET Framework
 
 UI Platform: Windows Forms
 
+✨ 프로젝트 구조 
 
-
-✨ 프로젝트 구조
 📁 Project1/
 │
 ├── 📄 Program.cs
@@ -50,9 +49,6 @@ UI Platform: Windows Forms
     │   ├── 📄 Bed.cs
     │   ├── 📄 Chair.cs
     │   ├── 📄 Table.cs
-    │   ├── 📄 Drawer.cs
-    │   ├── 📄 Rug.cs
-    │   ├── 📄 Blankit.cs
     │   └── ... (기타 모든 상품 폼)
     │
     ├── 📁 03_Order/
